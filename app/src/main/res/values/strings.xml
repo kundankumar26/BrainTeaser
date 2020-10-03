@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Brain Teaser</string>
+    <string name="wrong_answer">Wrong!</string>
+    <string name="correct_answer">Correct!</string>
 </resources>
